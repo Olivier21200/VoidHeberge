@@ -80,7 +80,6 @@ img.img-polaroid {
 ==================================== */
 .topbar{
 	background-color: #fff;
-	padding:10px 0;
 	color:#fff;
 	min-height: 75px;
 }
@@ -332,9 +331,12 @@ display: inline-block;
 }
 .lineBtn{background: transparent !important;color: #1976d2;border: 1px solid #1976d2;padding: 10px 20px;border-radius: 6px;margin: 15px 0 10px;display: inline-block;text-decoration: none !important;font-size: 14px;}
 .lineBtn:hover{
-	background: #1976d2 !important;
-	border: 1px solid #1976d2;
-	color: #fff;
+	
+background: #1976d2 !important;
+	
+border: 1px solid #1976d2;
+	
+color: #fff;
 }
 #banner{
 	width: 100%;
@@ -1169,7 +1171,8 @@ color: #222;
 	color:#fff;
 }
 .pricing-box-item.activeItem .pricing-heading h3 {
-	 color: #fff;
+	 
+color: #fff;
 }
 
 .pricing-box-item .pricing-heading h3 strong {
